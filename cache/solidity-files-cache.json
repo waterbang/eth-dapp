@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/waterbang/Desktop/project/IPFS/eth-app/contracts/Adoption.sol": {
+      "lastModificationDate": 1656603900209,
+      "contentHash": "89f6302e5cc3d3efb8d58a721cc934c3",
+      "sourceName": "contracts/Adoption.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Adoption"
+      ]
+    }
+  }
+}
